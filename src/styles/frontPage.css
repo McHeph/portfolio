@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 6rem;
+    height: 100vh;
+    background-color: rgb(243, 242, 237);
+}
+.aboutMeCard{
+    display: flex;
+    width: 70rem;
+    padding: 2rem;
+    border-radius: 3rem;
+    background-color: white;
+}
+.profilePicture{
+    border-radius: 6rem;
+    width: 12rem;
+    height: 12rem;
+}
